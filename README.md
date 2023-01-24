@@ -1,9 +1,4 @@
-# Safe Hand Manipulation
-
-#### Find more details in the [Wiki](https://github.gatech.edu/ajain448/safe-hand-manipulation/wiki)!
-
-## Quick links
-CPO repo: https://github.com/jachiam/cpo
+# Constrained Reinforcement Learning for Dexterous Manipulation
 
 ## Setup instructions
 ```
