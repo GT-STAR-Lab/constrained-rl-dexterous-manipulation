@@ -1,6 +1,6 @@
-# Constrained Reinforcement Learning for Dexterous Manipulation
+## Constrained Reinforcement Learning for Dexterous Manipulation
 
-## Setup instructions
+### Setup instructions
 ```
 1. git clone https://github.gatech.edu/ajain448/safe-hand-manipulation
 2. cd safe-hand-manipulation/mjrl/
